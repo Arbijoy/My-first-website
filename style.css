@@ -113,8 +113,11 @@ h4{
 }
 footer{
     text-align: center;   
-    margin-top: 200px; 
+    margin-top: 600px; 
+    padding-bottom: 0%;
+    background-color: darkgray; 
 }
 #myname{
     color: rgb(11, 144, 184);
+    
 }
